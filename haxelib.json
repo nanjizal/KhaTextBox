@@ -1,0 +1,12 @@
+{
+    "name"         : "KhaTextBox",
+    "url"          : "https://github.com/nanjizal/KhaTextBox#KhaTextBox",
+    "license"      : "MIT",
+    "tags"         : ["kha"],
+    "description"  : "kha textbox",
+    "version"      : "0.0.1",
+    "releasenote"  : "See https://github.com/nanjizal/khaTextBox/blob/master/CHANGELOG.md",
+    "classPath"    : "",
+    "contributors" : ["tienery"],
+    "dependencies" : {}
+}
